@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://ninetyfivedots.github.io/ninetyfivedots_github_io_zp533_1.txt
+Sitemap: https://ninetyfivedots.github.io/ninetyfivedots_github_io_zp533_16.txt
+Sitemap: https://ninetyfivedots.github.io/ninetyfivedots_github_io_zp533_22.txt
+Sitemap: https://ninetyfivedots.github.io/ninetyfivedots_github_io_zp533_29.txt
+Sitemap: https://ninetyfivedots.github.io/ninetyfivedots_github_io_zp533_9.txt
